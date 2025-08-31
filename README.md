@@ -1,6 +1,6 @@
 # Voice Command Shopping Assistent
 
-
+## Deployed Link:- https://voiceassistent.pythonanywhere.com/
 
 ## How to use
 https://github.com/user-attachments/assets/0fb29b18-f9ea-4461-a184-4fc871c3d691
@@ -56,6 +56,12 @@ It helps users save time searching for products, as they can simply send a voice
 
 ## WorkFlow Diagram
 <img width="1622" height="851" alt="Image" src="https://github.com/user-attachments/assets/42c1fe05-2eea-427f-989e-1b3a0eeacf3a" />
+
+## Run at Local Server
+      open app.py file
+      python app.py  --run at terminal
+
+      open index.html file in chrome browser
 
 ## Detail Approach, Challanges and Future Improvement & Scalability
 
